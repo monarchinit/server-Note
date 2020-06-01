@@ -1,5 +1,4 @@
 {
-  "name": "goit_bc16_final",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,16 +7,12 @@
     "start": "nodemon api/start.js"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/alucardpetrovich/goit_bc16_final.git"
+    "type": "git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/alucardpetrovich/goit_bc16_final/issues"
-  },
-  "homepage": "https://github.com/alucardpetrovich/goit_bc16_final#readme",
+  "bugs": {},
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "dotenv": "^8.2.0",
